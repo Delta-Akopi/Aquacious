@@ -1,6 +1,8 @@
 
 ## Welcome to Aqua's Repository!
 
+> Hey! llsc12's exams are coming up soon so he's taking time off, but expect some massive feature updates soon™!
+
 > Aquacious is fully open source to let people examine it and take some parts of it to use in their own projects!
 
 We want to contribute to the stuff already out there so new people can learn! 
@@ -12,17 +14,19 @@ We want to contribute to the stuff already out there so new people can learn!
 - [x] Permission checks
 - [x] Snipe Commands
 - [x] Emote Stealing
+- [ ] Pancake Stealing ( ͠° ͟ʖ ͡°)
 - [ ] Nitro Leaching
 - [x] Moderation commands
 - [x] Fun commands
 - [x] In-chat Commands 
 - [x] Music commands
 - [x] Fast team to address input from community ( ͡° ͜ʖ ͡°)
+- [ ] causing 5 star pancakes with cop chased action to your discord (つ .•́ _ʖ •̀.)つ
 
 > [You can add Aquacious here](https://discord.com/oauth2/authorize?client_id=834501897666297918&permissions=8&scope=bot)
-
+> Add Aquacious Now!
 > [You can join the Support Server here](https://discord.gg/TRc3vENjCW)
-
+> supporting team right above, join for h
 ## Installation and Setup
 Unfortunately, the majority of Aqua's code is very static when it comes to things like posting updates in our [Support Server's](https://discord.gg/TRc3vENjCW) channels. Hence it is rather hard for new developers to get going. If you know enough JavaScript to be able to remove these functions, go ahead and do it! For anyone else, you may take parts of Aqua's code for your own projects if you need help with a command or something. 
 
